@@ -16,7 +16,6 @@ Criar uma planilha robusta, mas ao mesmo tempo **simples e intuitiva**, que perm
 ## 🧩 Funcionalidades
 
 - Menus de navegação entre planilhas
-- Validações automáticas de dados
 - Estrutura organizada por tipo de informação
 - Campos pensados para facilitar a conferência posterior
 - Links rápidos e recursos auxiliares
